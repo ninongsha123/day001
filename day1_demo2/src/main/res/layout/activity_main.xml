@@ -4,13 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.lenovo.day001.MainActivity">
+    tools:context="com.example.day1_demo2.MainActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/lv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-
-
 
 </android.support.constraint.ConstraintLayout>
